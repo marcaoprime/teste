@@ -7,6 +7,7 @@ namespace projetotesteGIT
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Alterado");
             Console.ReadLine();
         }
     }
